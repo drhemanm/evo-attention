@@ -244,7 +244,7 @@ If you use this work, please cite:
 ```bibtex
 @misc{evoattention2025,
   title={EvoAttention: Evolutionary Discovery of Attention Mechanisms},
-  author={Your Name},
+  author={Heman Mohabeer},
   year={2025},
   url={https://github.com/yourusername/evo-attention}
 }

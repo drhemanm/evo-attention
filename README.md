@@ -246,7 +246,7 @@ If you use this work, please cite:
   title={EvoAttention: Evolutionary Discovery of Attention Mechanisms},
   author={Heman Mohabeer},
   year={2025},
-  url={https://github.com/yourusername/evo-attention}
+  url={https://github.com/drhemanm/evo-attention.git}
 }
 ```
 
@@ -263,9 +263,9 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 📬 Contact
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/evo-attention/issues)
-- **Email:** your.email@example.com
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Issues:** [GitHub Issues](https://github.com/drhemanm/evo-attention/issues)
+- **Email:**heman.mohabeer@gmail.com
+- **Twitter:** [@yourhandle](https://twitter.com/heman4yu)
 
 ---
 
